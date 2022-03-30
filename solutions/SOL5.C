@@ -1,7 +1,5 @@
 /* Write a program to enter five string and print it.
-	Date :- 21-2-22
-	Author:- Tanmay S. Chaudhari
-	*/
+	Date :- 21-2-22*/
 #include<stdio.h>
 #include<conio.h>
 void main()
